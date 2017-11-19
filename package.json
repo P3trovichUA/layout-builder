@@ -1,0 +1,35 @@
+{
+  "name": "layout-builder",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "gulp": "./node_modules/.bin/gulp"
+  },
+  "author": "",
+  "license": "MIT",
+  "homepage": "",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-react": "^6.24.1",
+    "browser-sync": "^2.18.13",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-babel": "^7.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "^3.0.0",
+    "gulp-debug": "^3.1.0",
+    "gulp-html-beautify": "^1.0.1",
+    "gulp-less": "^3.3.2",
+    "gulp-remember": "^0.3.1",
+    "gulp-sourcemaps": "^2.6.1",
+    "less-plugin-autoprefix": "^1.5.1",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "through2": "^2.0.3"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.2",
+    "font-awesome": "^4.7.0",
+    "normalize.css": "^7.0.0"
+  }
+}
